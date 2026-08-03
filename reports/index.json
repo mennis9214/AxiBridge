@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260802-201218-p6s1",
+      "title": "Get Mesmorized",
+      "commanders": [
+        "Get Mesmorized"
+      ],
+      "dateStart": "2026-08-03T00:12:18.000Z",
+      "dateEnd": "2026-08-03T01:31:35.000Z",
+      "dateLabel": "8/2/2026, 8:12:18 PM - 8/2/2026, 9:31:35 PM",
+      "url": "https://mennis9214.github.io/AxiBridge/?report=20260802-201218-p6s1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 43
+      }
+    }
+  ]
+}
