@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260901-202704-lic7",
+      "title": "Get Mesmorized",
+      "commanders": [
+        "Get Mesmorized"
+      ],
+      "dateStart": "2026-09-02T00:27:04.000Z",
+      "dateEnd": "2026-09-02T01:09:57.000Z",
+      "dateLabel": "9/1/2026, 8:27:04 PM - 9/1/2026, 9:09:57 PM",
+      "url": "https://mennis9214.github.io/AxiBridge/?report=20260901-202704-lic7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260802-201218-p6s1",
       "title": "Get Mesmorized",
       "commanders": [
