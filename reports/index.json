@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261001-204304-5vkd",
+      "title": "Get Mesmorized",
+      "commanders": [
+        "Get Mesmorized"
+      ],
+      "dateStart": "2026-10-02T00:43:04.000Z",
+      "dateEnd": "2026-10-02T01:35:44.000Z",
+      "dateLabel": "10/1/2026, 8:43:04 PM - 10/1/2026, 9:35:44 PM",
+      "url": "https://mennis9214.github.io/AxiBridge/?report=20261001-204304-5vkd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260901-202704-lic7",
       "title": "Get Mesmorized",
       "commanders": [
